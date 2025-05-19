@@ -38,7 +38,11 @@ jobs:
           pwd
 
 
+<<<<<<< Updated upstream
 ob2:
+=======
+  job2:
+>>>>>>> Stashed changes
     # The type of runner that the job will run on
     runs-on: ubuntu-22.04
     needs: build
